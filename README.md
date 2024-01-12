@@ -10,10 +10,12 @@
    
 #
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YanChristian&show_icons=true&count_private=true&hide=contribs,issues&border=true&title_color=1E90FF&icon_color=00BFFF&text_color=FFFAFA&bg_color=0e0e0e"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanChristian&layout=compact&border=true&title_color=1E90FF&text_color=FFFAFA&bg_color=0e0e0e" />
+<div>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=YanChristian&show_icons=true&count_private=true&hide=contribs,issues&title_color=1E90FF&icon_color=00BFFF&text_color=FFFAFA&bg_color=0e0e0e"/>
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanChristian&layout=compact&title_color=1E90FF&text_color=FFFAFA&bg_color=0e0e0e" />
+</div>
 
-## Contantos:
+## Contatos:
    
    <a href="https://www.linkedin.com/in/yan-christian-conceição/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="mailto:yanchrismello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
